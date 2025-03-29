@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Hernan Coniglio
-- Vivo en Villa Tesei
+- Vivo en Villa Tesei de Hurlingham
 
 
 ### Otra Información
