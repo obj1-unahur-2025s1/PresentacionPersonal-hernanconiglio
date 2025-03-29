@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Hernan Coniglio
-- Vivo en
+- Vivo en Villa Tesei
 
 
 ### Otra Información
